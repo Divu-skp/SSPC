@@ -53,7 +53,7 @@ Follow the steps below to set up and run the application on your local machine:
 
 ### **Clone the Repository**  
 ```bash
-git clone https://github.com/<your-username>/stock-tracker.git  
+git clone https://github.com/Divu_skp/stock-tracker.git  
 cd stock-tracker  
 ```
 
