@@ -108,8 +108,5 @@ Created with ❤️ by Dwived Krishna P.
 
 Feel free to connect or contribute!
 
-## **📜 License**
-This project is licensed under the MIT License. Check the LICENSE file for more details.
-
 ## **🌟 Show Your Support**
 If you found this project useful, please consider giving it a ⭐ on GitHub!
