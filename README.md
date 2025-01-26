@@ -53,8 +53,8 @@ Follow the steps below to set up and run the application on your local machine:
 
 ### **Clone the Repository**  
 ```bash
-git clone https://github.com/Divu_skp/stock-tracker.git  
-cd stock-tracker  
+git clone https://github.com/Divu-skp/SSPC.git  
+cd SSPC 
 ```
 
 ### **Install Dependencies**
